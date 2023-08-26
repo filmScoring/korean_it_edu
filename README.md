@@ -1,5 +1,8 @@
 # 대한민국 개발(IT) 국비 지원 정보를 모으고 있는 레파지토리입니다.
 많은 분들께서 적극적으로 참여하여, 정보를 교류하고 응원하는 장소가 되길 바랍니다.
+[국비지원 IT 오픈 채팅방](https://open.kakao.com/o/gLTRmEcc)
+
+## Contributor
 
 ## FAQ
 
@@ -21,4 +24,4 @@
 
 ## [국비지원 출신 테크 직군 정보](https://docs.google.com/spreadsheets/d/162TD4qqC9HKRdd4vnrHVymJxrGHMe6uGAjx67Bnt7Kc/edit?usp=sharing)
 
-## [국비지원 IT 오픈 채팅방](https://open.kakao.com/o/gLTRmEcc)
+
