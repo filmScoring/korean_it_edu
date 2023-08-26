@@ -21,8 +21,8 @@ TV에 나오는 5, 6천만 원 연봉대의 자리는 쉽지 않지만, 국비 �
 </details>
     
 
-## [백앤드]
+## [백앤드](https://github.com/filmScoring/korean_it_edu/blob/main/Backend/roadmap.md)
 
-## [프론트앤드]
+## [프론트앤드](https://github.com/filmScoring/korean_it_edu/blob/main/Frontend/roadmap.md)
 
-## [국비지원 출신 테크 직군 정보]
+## [국비지원 출신 테크 직군 정보](https://docs.google.com/spreadsheets/d/162TD4qqC9HKRdd4vnrHVymJxrGHMe6uGAjx67Bnt7Kc/edit?usp=sharing)
